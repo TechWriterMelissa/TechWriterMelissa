@@ -1,5 +1,5 @@
 ## Savvy and versatile Tech Writer looking for open source projects!
-**🍁 Greetings from Calgary, Alberta, Canada 🍁**
+**Hi, I'm Melissa (she/her)**
 
 - ✍️ I am looking for open source projects that need contributors
 - ☕ Chat with me on [LinkedIn](https://www.linkedin.com/in/melissaligertwood/)
