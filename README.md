@@ -1,18 +1,16 @@
 ## Savvy and versatile Tech Writer looking for open source projects!
-**Hi, I'm Melissa (she/her)**
+**Hi, I'm Melissa (she/her)**  
+I love learning new things, and I can onboard to new projects FAST 🚀
 
 - ✍️ I am looking for open source projects that need contributors
+- 🤔 I am pondering my next learning opportunity
 - ☕ Chat with me on [LinkedIn](https://www.linkedin.com/in/melissaligertwood/)
-- 🎵 Wannabe jazz singer
-- 📻 Podcast junkie
-- 🐶 Dogs are my life!
+- 📃 View my [CV](https://drive.google.com/file/d/1BCCF1csjqJ8StowXno7sRdKqB6t2amtY/view?usp=sharing)
 
-### What you can expect working with me
-- I love learning new things, and I can onboard to new projects FAST 🚀
-- I am a skilled interviewer, and I can build rapport quickly with any subject matter expert
-- I will always give it to you straight
-- My work will always be completed on time to a high standard of accuracy and quality
-- I love to laugh and have fun working with people
+### Skills
+- Markdown
+- GitHub
+- Mermaid
 
 ### Writing Interests
 - Help documentation / knowledge base
@@ -25,8 +23,3 @@
 - Cybersecurity
 - Psychology / social sciences
 - Legal / Indigenous rights
-
-
-
-
-
