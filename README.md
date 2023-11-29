@@ -2,8 +2,8 @@
 **Hi, I'm Melissa (she/her)**  
 I love learning new things, and I can onboard to new projects FAST 🚀
 
-- ✍️ I am looking for open source projects that need contributors
-- 🤔 I am pondering my next learning opportunity
+- ✍️ Looking for open source projects that need contributors
+- 🤔 Pondering my next learning opportunity
 - ☕ Chat with me on [LinkedIn](https://www.linkedin.com/in/melissaligertwood/)
 - 📃 View my [CV](https://drive.google.com/file/d/1BCCF1csjqJ8StowXno7sRdKqB6t2amtY/view?usp=sharing)
 
