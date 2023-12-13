@@ -5,7 +5,7 @@ I love learning new things, and I can onboard to new projects FAST 🚀
 - ✍️ Looking for open source projects that need contributors
 - 🤔 Pondering my next learning opportunity
 - ☕ Chat with me on [LinkedIn](https://www.linkedin.com/in/melissaligertwood/)
-- 📃 View my [CV](https://drive.google.com/file/d/1BCCF1csjqJ8StowXno7sRdKqB6t2amtY/view?usp=sharing)
+- 📃 View my [CV](https://drive.google.com/file/d/1BCCF1csjqJ8StowXno7sRdKqB6t2amtY/view)
 
 ### Skills
 - Markdown
