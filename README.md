@@ -8,7 +8,7 @@ I love learning new things, and I can onboard to new projects FAST 🚀
 - 📃 View my [CV](https://drive.google.com/file/d/1BCCF1csjqJ8StowXno7sRdKqB6t2amtY/view)
 
 ### Samples
-[Google Classroom Knowledge Base](https://github.com/TechWriterMelissa/student-portfolio/tree/main/Classroom%20KBAs)
+[Google Classroom Knowledge Base](https://github.com/TechWriterMelissa/student-portfolio/tree/main/Classroom%20KBAs)  
 [AppCorp Meal Order API](https://github.com/TechWriterMelissa/student-portfolio/tree/main/Mock-API-Sample)
 
 ### Skills
