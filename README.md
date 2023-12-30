@@ -15,6 +15,7 @@ I love learning new things, and I can onboard to new projects FAST 🚀
 - Markdown
 - GitHub
 - Mermaid
+- DITA/XML
 
 ### Writing Interests
 - Help documentation / knowledge base
