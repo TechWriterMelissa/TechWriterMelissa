@@ -21,7 +21,7 @@ I love learning new things, and I can onboard to new projects FAST 🚀
 - Process mapping, process design, and process documentation
 
 ### Skills + Tools
-Content Writing | Technical Writing | Search Engine Optimization | Website Audits | Nav Structure | Information Design | Visual Hierarchy | User Experience | Wireframing | Markdown | HTML | Journeys | Personas | Adobe Creative Suite | Slack | Discord | Cross-functional Teams | Figma
+Content Writing | Technical Writing | Search Engine Optimization | Website Audits | Nav Structure | Information Design | Visual Hierarchy | User Experience | Wireframing | Markdown | HTML | Journeys | Personas | Adobe Creative Suite | Slack | Discord | Cross-functional Teams | Figma | GitHub
 
 
 ### [VIEW MY CV](https://drive.google.com/file/d/1BCCF1csjqJ8StowXno7sRdKqB6t2amtY/view)  
