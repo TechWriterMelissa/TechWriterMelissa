@@ -9,7 +9,7 @@ I love learning new things, and I can onboard to new projects FAST 🚀
 - ☕ Chat with me on [LinkedIn](https://www.linkedin.com/in/melissaligertwood/)
 - 📃 Check out [My Portfolio](https://www.contentlime.com/)
 
-### Writing Samples
+### GitHub Markdown Files
 [Daily UX Writing Challenge](https://github.com/TechWriterMelissa/daily-ux-writing-challenge)  
 [Google Classroom Knowledge Base](https://github.com/TechWriterMelissa/student-portfolio/tree/main/Classroom%20KBAs)  
 [AppCorp Meal Order API](https://github.com/TechWriterMelissa/student-portfolio/tree/main/Mock-API-Sample)  
