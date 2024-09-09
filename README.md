@@ -15,13 +15,16 @@ I love learning new things, and I can onboard to new projects FAST 🚀
 [AppCorp Meal Order API](https://github.com/TechWriterMelissa/student-portfolio/tree/main/Mock-API-Sample)  
 
 ### Superpowers
-- Content design
-- UX writing
+- Research and technical writing
+- User surveys and interviews
+- Stakeholder/SME collaboration
+- Content design and UX writing
 - Help documentation / Knowledge base
 - Process mapping, process design, and process documentation
+- Project management and creative direction
 
 ### Skills + Tools
-Content Writing | Technical Writing | Search Engine Optimization | Website Audits | Nav Structure | Information Design | Visual Hierarchy | User Experience | Wireframing | Markdown | HTML | Journeys | Personas | Adobe Creative Suite | Slack | Discord | Cross-functional Teams | Figma | GitHub
+Research ▪️ Content Writing ▪️ Empathy ▪️ Agile ▪️ Technical Writing ▪️ Search Engine Optimization (SEO) ▪️ Website Audits ▪️ Nav Structure ▪️ Information Design ▪️ Visual Hierarchy ▪️ User Experience ▪️ Wireframing ▪️ Cross-functional Teams ▪️ Project Management ▪️ Markdown ▪️ HTML ▪️ Adobe Creative Suite ▪️ Slack ▪️ Discord ▪️ Figma ▪️ GitHub ▪️ Google Workspace ▪️ Office 365 ▪️ SharePoint ▪️ Visio ▪️ Coda ▪️ Slite
 
 
 ### [VIEW MY CV](https://drive.google.com/file/d/1BCCF1csjqJ8StowXno7sRdKqB6t2amtY/view)  
