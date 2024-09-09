@@ -5,7 +5,7 @@ I love learning new things, and I can onboard to new projects FAST 🚀
 - ✍️ Looking for my next gig
 - ✈️ Volunteering at [scapadeapp](https://www.scapadeapp.com/)
 - 🖥️ Doing the Daily UX Writing Challenge
-- 🤓 Learning DITA, JavaScript, and Web Accessibility
+- 🤓 In various stages of learning DITA, JavaScript, and Web Accessibility
 - ☕ Chat with me on [LinkedIn](https://www.linkedin.com/in/melissaligertwood/)
 - 📃 Check out [My Portfolio](https://www.contentlime.com/)
 
