@@ -14,7 +14,7 @@ I love learning new things, and I can onboard to new projects FAST 🚀
 [Google Classroom Knowledge Base](https://github.com/TechWriterMelissa/student-portfolio/tree/main/Classroom%20KBAs)  
 [AppCorp Meal Order API](https://github.com/TechWriterMelissa/student-portfolio/tree/main/Mock-API-Sample)  
 
-### Superpowers
+### Superpowers 🦸‍♀️
 - Research and technical writing
 - User surveys and interviews
 - Stakeholder/SME collaboration
