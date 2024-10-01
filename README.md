@@ -5,7 +5,7 @@ I love learning new things, and I can onboard to new projects FAST 🚀
 - ✍️ Looking for my next gig
 - 📰 Designing email content for [Scapade](https://www.scapadeapp.com/)
 - 🖥️ Doing the Daily UX Writing Challenge
-- 🧠 Gamifying cognitive security training with pioneers in the field of Cyberpsychology at [MindShield Institute](https://www.mindshield.org/)
+- 🧠 Building cognitive resilience with pioneers in the field of Cyberpsychology at [MindShield Institute](https://www.mindshield.org/)
 - 🤓 In various stages of learning DITA, JavaScript, and Web Accessibility
 - ☕ Chat with me on [LinkedIn](https://www.linkedin.com/in/melissaligertwood/)
 - 📃 Check out [My Portfolio](https://www.contentlime.com/)
